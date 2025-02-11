@@ -1,3 +1,3 @@
 ## Deep Learning Optimizers: Momentum, Nesterov, RMSProp with Momentum, Adam
 
-![pic1](https://github.com/user-attachments/assets/cbea6e48-ccc5-478c-9bad-7de405fbdefa)
+![vid](https://github.com/user-attachments/assets/5e5562d4-e5a1-4637-bf54-2ce4651c76fd)
